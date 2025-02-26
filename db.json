@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn JavaScript basics",
+      "description": "Variables, functions, and control flow",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Build Todo App",
+      "description": "Create a CRUD app using JSON-server",
+      "completed": false
+    },
+    {
+      "id": "8938",
+      "title": "Wake up at 6 am",
+      "description": "Early bird gets the worm!",
+      "completed": false
+    }
+  ]
+}
