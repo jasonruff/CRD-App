@@ -1,3 +1,16 @@
 {
-  "todos": []
-}
+    "todos": [
+      {
+        "id": 1,
+        "title": "Learn API basics",
+        "description": "Variables, functions, and control flow",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Build Todo App",
+        "description": "Create a CRUD app using JSON-server",
+        "completed": false
+      }
+    ]
+  }
